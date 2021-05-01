@@ -5,7 +5,7 @@
 
 - 🤓 I'm currently working at Canada Revenue Agency
 - 😍 I'm a new graduate passionate software developer aiming to grow MERN Stack and REST API knowledge
-- 🤟🏻 I love languages and not only programming ones, currently learning French
+- 🇨🇦 🇷🇺 🇹🇷 I love languages and not only the ones for programming, currently learning 🇨🇦 🇫🇷 French
 - 😉 If you have an interesting offer, I'm one click away ⬇️
 
 #### Connect with me:
